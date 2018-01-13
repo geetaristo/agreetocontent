@@ -5,7 +5,7 @@ The code in public/agreeToConent.js completely handles the displaying of a warni
 ```
 <html>
 <head>
-  <script src="./agreeToContent"> </script>
+  <script src="./agreeToContent.js"> </script>
 </head>
 <body>
   my wonderful html page

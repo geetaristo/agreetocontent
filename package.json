@@ -1,0 +1,28 @@
+{
+  "name": "agreetocontent",
+  "version": "1.0.0",
+  "description": "Script to get website visitors to agree to content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Luttrell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geetaristo/agreetocontent.git"
+  },
+  "keywords": [
+    "javascript",
+    "content",
+    "agreement"
+  ],
+  "bugs": {
+    "url": "https://github.com/geetaristo/agreetocontent/issues"
+  },
+  "homepage": "https://github.com/geetaristo/agreetocontent#readme"
+}

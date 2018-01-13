@@ -53,7 +53,7 @@ function getAgreement() {
                            'This site contains uncensored photos of human child birth.',
                            '<br /><br />',
                            'Would you like to continue?<br /><br />',
-                           '<span style="color:grey;font-size:0.8em;">By clicking yes, you also agree to our use of cookies.</span>'
+                           '<span style="color:grey;font-size:0.8em;">By clicking yes, you also agree to this site\'s use of cookies.</span>'
                            ].join('')
 
   const overlayDiv = document.createElement('div')
